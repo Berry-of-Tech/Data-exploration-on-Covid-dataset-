@@ -28,6 +28,8 @@ I had to split the dataset into two sections called covid deaths and covid vacci
 - people vaccinated
 - population
 
+---
+
 ## 4. Data exploration process
 
 

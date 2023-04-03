@@ -7,12 +7,12 @@ As a newbie data analyst I wanted to get my hands dirty on more projects after m
 so I took it upon myself to work on the covid-19 dataset. I used SQL server as a tool. Let me introduce the dataset. 
 The dataset was gotten from [link](https://ourworldindata.org/covid-deaths).
 
-![Image]()
+![](https://github.com/Berry-of-Tech/Data-exploration-on-Covid-dataset-/blob/main/Covid-19%20image.jpg)
 ---
-I had to split the dataset into two sections called covid deaths and covid vaccinations for easy exploration 
+I had to split the dataset into two sections called covid deaths and covid vaccinations for easy exploration.
 
 ## 2. **Preview of the data**
-![]()
+![](https://github.com/Berry-of-Tech/Data-exploration-on-Covid-dataset-/blob/main/Covid%20deaths%20unclean%20data.png)
 
 ![]()
 

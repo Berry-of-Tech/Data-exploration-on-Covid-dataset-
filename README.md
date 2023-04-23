@@ -3,9 +3,14 @@
 ## 1. Introduction
 ---
 
-As a newbie data analyst I wanted to get my hands dirty on more projects after my first project on data cleaning, 
-so I took it upon myself to work on the covid-19 dataset. I used SQL server as a tool. Let me introduce the dataset. 
-The dataset was gotten from [ this link](https://ourworldindata.org/covid-deaths).
+Covid 19 pandemic have had several short-term as well as long term impacts on human health, society, economy and environment. A pandemic which broke out in 2019 created significant knock-on effects on the daily life of citizens, as well as about the global economy.
+
+Presently the impacts of COVID-19 in daily life are extensive and have far reaching consequences.
+
+In this project, I analyzed and explored covid data with SQL using Micrsoft SQL Server Management Studio.
+
+Let me introduce the dataset. 
+The dataset was gotten from [ this link](https://ourworldindata.org/covid-deaths). it was sourced from  starting from 1st January, 2020 to 5th November, 2022.
 
 ![](https://github.com/Berry-of-Tech/Data-exploration-on-Covid-dataset-/blob/main/Covid-19%20image.jpg)
 ---
@@ -30,8 +35,25 @@ I had to split the dataset into two sections called covid deaths and covid vacci
 
 ---
 
-## 4. Data exploration process
+## 4. Summary of Findings
 
+According to the insights derived from the covid data :
+
+* The total covid-19 cases confirmed was 630,711,800 cases
+
+* The total deaths recorded was 6,873,464
+
+* The global percentage death was 0.87 percent
+
+* The countries with the highest infection rate are Cyprus, San Marino, Austria, Faeroe Islands, Slovenia
+
+* United states, India, France, and Brazil had the total number of confirmed cases.
+
+* United states, Brazil, India, Russia and Mexico recorded the highest deaths.
+
+* Europe had the highest total cases per continrent, followed by Asia, North merica, and South America.
+
+* Europe had the total number of deaths recorded as per continent, followed by North America, Asia, and South America.
 
 
 

@@ -3,7 +3,7 @@
 ## 1. Introduction
 ---
 
-Covid 19 pandemic have had several short-term as well as long term impacts on human health, society, economy and environment. A pandemic which broke out in 2019 created significant knock-on effects on the daily life of citizens, as well as about the global economy.
+The COVID-19 pandemic caused by the SARS-CoV-2 virus has had a profound impact on global health, economies, and societies. Since its emergence in late 2019, the virus has spread rapidly across the globe, leading to millions of deaths and significant disruptions to daily life. The World Health Organization (WHO) declared COVID-19 a pandemic in March 2020, and efforts to contain the virus have since been at the forefront of global health initiatives.
 
 Presently the impacts of COVID-19 in daily life are extensive and have far reaching consequences.
 
